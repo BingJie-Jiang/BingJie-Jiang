@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi! I'm BingJie Jiang. 👋🏻
 
-<!--
-**BingJie-Jiang/BingJie-Jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Static bio content here...]
 
-Here are some ideas to get you started:
+## Latest Newsletter Posts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- NEWSLETTER-POST-LIST:START -->
+<!-- NEWSLETTER-POST-LIST:END -->
+
+## Latest Blog Posts and Talks
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Upcoming Live Streams
+
+<!-- STREAM-SCHEDULE:START -->
+<!-- STREAM-SCHEDULE:END -->
+
+## Latest Videos
+
+<!-- VIDEO-LIST:START -->
+<!-- VIDEO-LIST:END -->
